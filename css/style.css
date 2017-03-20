@@ -1,0 +1,143 @@
+/*exhibition*/
+.exhList{
+	position: absolute;
+	right: 146px;
+	bottom: 24px;
+	width:310px;
+	height:56px;
+	
+}
+.exhList li{
+	list-style: none;
+	float: left;
+	width:80px;
+	height:24px;
+	margin-right: 30px;
+}
+.exhList li.bordernone{
+	margin-right: 0px;
+}
+.exhList li a{
+	font-family:"microsoft yahei" ;
+	font-size:16px;
+	color:#82a6da;
+	border-bottom: 1px solid #82a6da;
+}
+.exhEle{
+	width:1200px;
+	margin: 0 auto;
+	border-bottom:1px solid #e7a7b8;
+	
+}
+.exhEle h3,.exhEle h2{
+	text-align: center;
+	font-family:'SimSun';
+	font-size: 46px;
+	color:#b7103b;
+}
+.exhEle h3{
+	margin-top:30px ;
+}
+.exhEle h2{
+	font-weight: 800;
+	border-bottom: 2px solid #b7103b;
+	width: 216px;
+	margin-left:41%;
+	padding-bottom: 14px;
+}
+.exhElecto{
+	width:1200px;
+	margin:0 auto;
+	margin-top: 70px;
+	overflow: hidden;
+}
+.exhElecto i{
+	float:left;
+	width:12px;
+	height:12px;
+	background:#428b7a;
+	margin-top: 3%;
+	margin-right: 16px;
+}
+.fair{
+	width:544px;
+	overflow: hidden;
+}
+.fair div{
+	float:left;
+	width:514px;
+	border-bottom: 1px dashed #9d9d9d;
+	padding-bottom: 30px;
+}
+.fair h2{
+	font-family:"microsoft yahei";
+	font-size: 30px;
+	color:#468a7b;
+	font-weight: normal;
+	margin-bottom: 12px;
+}
+.fair p{
+	font-family:"microsoft yahei";
+	font-size: 20px;
+	color:#262523;
+	margin-bottom: 8px;
+}
+.fair p.bordernone{
+	margin-bottom: 0px;
+}
+.exhscope{
+	padding-top: 30px;
+	
+}
+.exhElecto1{
+	float: left;
+	width:580px;
+	border-right: 1px dashed #9d9d9d;
+}
+.exhElecto2{
+	float: right;
+	width:580px;
+}
+.memberprice,.nmemberprice{
+	margin-top: 16px;
+}
+.memberprice h3,.nmemberprice h3{
+	text-align: center;
+	font-family: "microsoft yahei";
+	font-size:22px;
+	color:#2c2724;
+	font-weight: normal;
+}
+.member div{
+	border: none;
+	padding-bottom: 0;
+}
+.member{
+padding-top:30px ;
+}
+
+
+
+.schedule{
+	width:1200px;
+	margin: 0 auto;
+	border-bottom:1px solid #e7a7b8;
+	
+}
+.schedule h3,.schedule h2{
+	text-align: center;
+	font-family:'SimSun';
+	font-size: 46px;
+	color:#b7103b;
+}
+.schedule h3{
+	margin-top:40px ;
+	font-size: 30px;
+}
+.schedule h2{
+	font-weight: 800;
+	border-bottom: 2px solid #b7103b;
+	width: 236px;
+	margin-left:41%;
+	padding-bottom: 14px;
+}
